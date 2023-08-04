@@ -1,3 +1,8 @@
 Hii, Here we will use it, for understanging git as well as git hub.
 My name is Anmol
-Again I made a changegit 
+Again I made a change git 
+Today we learn about following terms:
+git add
+git commit
+git pull 
+git push
