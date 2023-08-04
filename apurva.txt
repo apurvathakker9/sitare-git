@@ -1,0 +1,2 @@
+Hello, from Apurva. this is a text file to train sitare students on git.
+We are going to learn git commands and how to use git.
